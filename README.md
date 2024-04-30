@@ -9,3 +9,5 @@ In this repository, I will upload every single version of ATTD starting this rep
 
 Made with Unity
 CC-BY-SA v4.0
+
+## If you like this project, and want to support it, consider staring it :) (not forcing!)
