@@ -1,4 +1,4 @@
-## Welcome to the *official* ATTD repository!
+## Welcome to the *official* ATTD repository! (INDEFINITE HIATUS)
 ### What is this?
 This is the official repository of one of my games that I'm making, A Thing That Dashes. It's a minimalist 2D platformer game that is still in development.
 ### What will I do here?
